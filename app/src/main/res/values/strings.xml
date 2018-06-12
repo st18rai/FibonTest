@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FibonTest</string>
+    <string name="time">Time:</string>
+    <string name="enter_number"><![CDATA[Enter number < 47]]></string>
+    <string name="for_text">FOR</string>
+    <string name="recursion">RECURSION</string>
+    <string name="calculate">CALCULATE</string>
+</resources>
